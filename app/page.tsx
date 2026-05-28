@@ -21,7 +21,7 @@ export default function Home() {
           Atendimento personalizado e entregas em toda a região de Alcobaça.
         </p>
         <a 
-          href="https://wa.me/55SEUNUMEROAQUI" 
+          href="https://wa.me/5521974342861" 
           target="_blank" 
           rel="noopener noreferrer"
           className="bg-green-500 hover:bg-green-600 text-white font-bold py-4 px-8 rounded-full shadow-lg transition-transform hover:scale-105 flex items-center gap-2"
@@ -55,7 +55,7 @@ export default function Home() {
               <div className="p-6 text-center">
                 <h3 className="text-xl font-semibold text-zinc-800 mb-4">{produto.nome}</h3>
                 <a 
-                  href={`https://wa.me/55SEUNUMEROAQUI?text=Olá, gostaria de saber mais sobre o ${produto.nome}!`} 
+                  href={`https://wa.me/5521974342861?text=Olá, gostaria de saber mais sobre o ${produto.nome}!`} 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="inline-block border-2 border-green-500 text-green-600 hover:bg-green-500 hover:text-white font-semibold py-2 px-6 rounded-full transition-colors"
